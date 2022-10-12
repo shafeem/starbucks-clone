@@ -1,0 +1,221 @@
+body{
+    margin: 0;
+}
+.space{
+    width: 100%;
+    height: 10px;
+    background-color: rgba(0,99,65,1);;
+}
+.header{
+    display: flex;
+    width: 100%;
+    height: 102px;
+    background-color: white;
+}
+.icon{
+    
+    width: 50%;
+    height: 102px;
+
+}
+.icon-1{
+    
+    margin-top: 18px;
+    margin-left: 40px;
+}
+.icon-2{
+    height: 44px;
+    width: 52px;
+    margin-left: 510px;
+    margin-top: 22px;
+}
+.icon-3{
+    margin-top: -33px;
+    margin-left: 563px;
+    color: rgb(88, 88, 88);
+
+}
+.tag-2 td{
+    padding-left: 18px;
+    padding-right: 18px;
+}
+.tag-3{
+    background-color: white;
+}
+.tag-3:hover{
+    background-color: gray;
+    touch-action: manipulation;
+    
+}
+.page-1{
+    height: 560px;
+    background-image: url(register3.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+   
+}
+.page-2{
+    height: 560px;
+    background-image: url(monsoon_delights_web_2400X560.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top: 0;
+}
+.page-3{
+    height: 560px;
+    background-image: url(tropical_favourite_web_2400X560.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top: 0;
+}
+.page-4{
+    height: 560px;
+    background-image: url(scoope-banner4.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top: 0;
+}
+.page-5{
+    height: 560px;
+    background-image: url(Desktop_Mobile_Order_and_Pay_tcm87-64504.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top: 0;
+}
+.page-6{
+    height: 560px;
+    background-image: url(web_revised_tcm87-72096.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top: 0;
+}
+.page-7{
+    display: flex;
+    flex-direction: row;
+    height: 523px;
+    width: 100%;
+}
+.p7-1{
+    width: 50%;
+    height: 400px;
+    background-image: url(latte-starbucks_tcm87-16216_w1024_n.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-left: -15px;
+    margin-top: 62px;
+}
+.p7-2{
+    width: 50%;
+    height:400px ;
+}
+.txt-1{
+    margin-top: 195px;
+    text-transform: uppercase;
+    word-spacing: 5px;
+    margin-left: 95px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.txt-2{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-left: 95px;
+}
+.page-8{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 515px;
+}
+.p8-1{
+    width: 50%;
+    height: 382px;
+}
+.p8-2{
+    width: 50%;
+    height: 382px;
+    background-image: url(oportunity_tcm87-16218_w1024_n.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 65px;
+    margin-left: -16px;
+}
+.txt-h{
+    margin-top: 200px;
+    margin-left: 100px;
+    word-spacing: 5px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+.tb{
+    margin-left: 102px;
+    margin-top: 15px;
+}
+
+.s-icons{
+    width: 100%;
+    height: 90px;
+    display: flex;
+    flex-direction: row;
+}
+.soc{
+    color: rgb(199, 5, 5);
+    height: 35px;
+    width: 35px;
+    margin-top: 30px;
+    margin-left: 40px;
+
+}
+.soc:hover{
+    background-color: black;
+    color: black;
+}
+.page-9{
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+    width: 100%;
+    height: 220px;
+}
+.p9-1{
+    width: 80%;
+    height: 200px;
+}
+.p9-2{
+    width: 20%;
+    height: 200px;
+}
+.tnx{
+    margin-top: 10px;
+    margin-left: 10px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding-top: 3px;
+    padding-bottom: 20px;
+    padding-left: 15px;
+    padding-right: 35px;
+    color: rgb(99, 96, 96);
+}
+.tx{
+    margin-top: 40px;
+    margin-left: 40px;
+}
+.nm{
+    padding-left: 230px;
+    margin-top: 20px;
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 46px;
+    padding-left: 40px;
+}
+.j{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-left: 20px;
+    text-decoration: none;
+    color: grey;
+}
+.paragraph{
+    font-size: smaller;
+    margin-left: 50px;
+    margin-top: -22px;
+    color: gray;
+}
